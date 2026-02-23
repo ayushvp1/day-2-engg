@@ -1,0 +1,15 @@
+Academic AI Assistant - Study Guide
+
+Key Concepts in Computer Science:
+
+Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Hash Tables.
+Algorithms: Sorting (Merge Sort, Quick Sort), Searching (Binary Search), Dynamic Programming.
+Object-Oriented Programming: Encapsulation, Inheritance, Polymorphism, Abstraction.
+Databases: SQL, NoSQL, Normalization, Indexing, Transactions.
+Networking: TCP/IP, HTTP, DNS, REST APIs, WebSockets.
+
+Study Tips:
+- Practice coding problems daily on platforms like LeetCode or HackerRank.
+- Build mini-projects to solidify concepts.
+- Review past exam papers and solve them under timed conditions.
+- Form study groups for peer learning and discussion.

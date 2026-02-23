@@ -1,0 +1,20 @@
+Career and Placement Guide
+
+Resume Tips:
+- Keep your resume concise (1-2 pages).
+- Highlight relevant skills and projects.
+- Use action verbs: Developed, Implemented, Designed, Optimized.
+- Quantify achievements where possible.
+
+Interview Preparation:
+- Practice common technical and behavioral questions.
+- Use the STAR method for behavioral answers (Situation, Task, Action, Result).
+- Research the company thoroughly before the interview.
+- Prepare questions to ask the interviewer.
+
+In-Demand Skills for 2025:
+- Python, JavaScript, TypeScript
+- Machine Learning & AI
+- Cloud Computing (AWS, GCP, Azure)
+- DevOps & CI/CD
+- System Design & Architecture
